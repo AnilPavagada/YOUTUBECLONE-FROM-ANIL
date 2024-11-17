@@ -112,5 +112,5 @@ http://localhost:5173/
 * Styling: Improved skills in modular CSS for scalable styling.
 ## Future Enhancements
 * User Authentication: Allow users to sign in and save playlists.
-## Cintrubting
+## Contrubting
 * Contributions are welcome! Fork the repo, create a feature branch, and submit a pull request
