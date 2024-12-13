@@ -40,7 +40,7 @@ A responsive YouTube Clone built with ReactJS, Vite, and the YouTube Data API. I
 1. Clone the Repository:
 
 ```bash
-  git clone https://github.com/your-username/youtube-clone.git
+  git clone https://github.com/AnilPavagada/YOUTUBECLONE-FROM-ANIL.git
 
   cd youtube-clone
 
